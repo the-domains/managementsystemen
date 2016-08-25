@@ -12,7 +12,3 @@ color:
     - '#85A5CC'
     - '#D0E4F2'
 name: Managementsystemen
-navigation:
-  - name: bmgrip
-    url: 'http://www.bmgrip.nl/'
-    type: external
